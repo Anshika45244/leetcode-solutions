@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# C++
+*.out
+*.exe
+*.o
+
+# Editor config
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
